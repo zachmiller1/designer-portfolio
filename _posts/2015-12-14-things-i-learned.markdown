@@ -3,6 +3,7 @@ layout: post
 title:  "Things I Learned"
 date:   2015-12-01 19:57:56 -0500
 categories: jekyll update
+tags: code
 ---
 
 ## Silva quamquam certius Achillis parte
