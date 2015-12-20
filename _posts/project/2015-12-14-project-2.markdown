@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "My First Day"
+title:  "Project 2"
 date:   2015-12-14 19:57:56 -0500
-categories: jekyll update
+categories: project
+featured_image: "images/project.png"
 tags: snippet
 ---
 

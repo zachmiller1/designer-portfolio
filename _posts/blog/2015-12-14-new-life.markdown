@@ -2,7 +2,7 @@
 layout: post
 title:  "New Life"
 date:   2015-12-10 19:57:56 -0500
-categories: jekyll update
+categories: blog
 tags: layout design
 ---
 

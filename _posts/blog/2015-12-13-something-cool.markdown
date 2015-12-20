@@ -2,7 +2,7 @@
 layout: post
 title:  "Something Cool"
 date:   2015-12-13 19:57:56 -0500
-categories: jekyll update
+categories: blog
 featured: true
 tags: design
 ---

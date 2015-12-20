@@ -2,7 +2,7 @@
 layout: post
 title:  "Unicorns Are Real"
 date:   2015-12-05 19:57:56 -0500
-categories: jekyll update
+categories: blog
 tags: code inspiration
 ---
 

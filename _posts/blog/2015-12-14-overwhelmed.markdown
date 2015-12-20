@@ -2,7 +2,7 @@
 layout: post
 title:  "Overwhelmed"
 date:   2015-12-14 19:57:56 -0500
-categories: jekyll update
+categories: blog
 featured: true
 tags: inspiration
 ---
